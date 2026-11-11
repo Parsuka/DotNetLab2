@@ -1,0 +1,11 @@
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\bin\Debug\net8.0\ATMLibrary.deps.json
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\bin\Debug\net8.0\ATMLibrary.dll
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\bin\Debug\net8.0\ATMLibrary.pdb
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.AssemblyInfoInputs.cache
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.AssemblyInfo.cs
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.csproj.CoreCompileInputs.cache
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.dll
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\refint\ATMLibrary.dll
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ATMLibrary.pdb
+E:\3 курс\NET\DotNetLab2\DotNetLab2\ATMLibrary\obj\Debug\net8.0\ref\ATMLibrary.dll
